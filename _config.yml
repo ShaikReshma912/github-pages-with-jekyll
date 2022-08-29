@@ -1,4 +1,8 @@
-title: My first website
+---
+title: "Welcome to My FIrst Blog"
+date: 2022-08-29
+---
+
 author: Shaik Reshma
 email: reshma@dhruvsoft.com
 description: > # this means to ignore newlines until "baseurl:"
